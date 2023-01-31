@@ -1,0 +1,1 @@
+export const getIndex = (req, res) => res.send('Estas en index');
